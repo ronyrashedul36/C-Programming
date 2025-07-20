@@ -1,4 +1,5 @@
 /*
+write the pseudocode/ program (in cpp) to print the common element between two arrays and the total number of such elements found. [assume each element in an array distinct] 
 
 1. Initialize two arrays A[] and B[] with their sizes n and m.
 2. Initialize count = 0
